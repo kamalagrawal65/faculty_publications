@@ -1,0 +1,149 @@
+#heading-nav{
+	height:40px;
+	width:1340px;
+	background-color:black;
+	padding:0px 5px 0px 5px;	
+}
+
+.cboxleft{
+	float:left;	
+}
+.modal-data{
+	list-style-type:none;
+	padding-left:5px;	
+}
+
+body{
+	margin:0px;
+	padding:0px;
+}
+#main-head{
+	background-color:#F60;
+	color:#FFF;	
+}
+#main-head2{
+	background-color:#603;
+	color:#FFF;	
+}
+
+.dropdown{
+	list-style-type:none;
+}
+.topic{
+	width:240px;
+	height:30px;
+	font-size:18px;
+	font-weight:700;
+	background-color:#CCC;
+	padding-top:10px;	
+	cursor: pointer;
+}
+a{
+	text-decoration:none;	
+}
+.header{
+	margin:0;
+	max-height:250px;
+	overflow:auto;
+	overflow-x:hidden;	
+}
+.top-container{
+	float:left;
+	overflow:auto;
+	overflow-x:hidden;
+	width:240px;
+	height:600px;
+	border:1px solid green;
+}
+#path_detail{
+	height:50px;
+	width:1100px;
+	background-color:#999;
+	overflow:auto;
+}
+#topic1{
+}
+.list2{
+	line-height:23px;
+	display:none;	
+}
+.list3{
+	line-height:23px;
+	display:none;	
+}
+.list4{
+	line-height:23px;
+	display:none;	
+}
+.list5{
+	line-height:23px;
+	display:none;	
+}
+.list6{
+	line-height:23px;
+	display:none;	
+}
+#submit{
+	width:240px;
+	background-color:#000;
+	color:white;
+	text-align:center;
+	height:40px;	
+}
+
+#submit:hover{
+	cursor:pointer;	
+}
+
+.auth{
+	float:left;	
+}
+.cbox{
+	float:left;
+	display:none;	
+}
+
+a:link {
+    color: blue;
+}
+a:visited {
+    color: blue;
+}
+a:hover {
+    color: blue;
+}
+a:active {
+    color: orange;
+}
+
+a#sbs:link {
+    color: white;
+}
+a#sbs:visited {
+    color: white;
+}
+a#sbs:hover {
+    color: orange;
+}
+a#sbs:active {
+    color: orange;
+}
+
+.list1{
+	line-height:23px;	
+}
+
+.auth,.subj,.docu,.scho,.year,.publ{
+	width:18px;
+	height:15px;	
+}
+.topic{
+	outline:none;	
+}
+.topic:hover{
+	background-color:#F90;	
+}
+.list1,.list2,.list3,.list4,.list5,.list6{
+	color:blue;
+	cursor:pointer;
+}

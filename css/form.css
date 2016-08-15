@@ -1,0 +1,93 @@
+body{
+	margin:0;
+	padding:0;	
+}
+a{
+	text-decoration:none;	
+}
+
+textarea{
+	resize:none;
+	align:left;	
+}
+
+
+.col1{
+	float:left;
+	text-align:left;
+	margin-top:20px;
+}
+.coladd1{
+	float:left;
+	text-align:left;
+	margin-top:10px;
+	margin-left:-100px;
+}
+.fieldset1{
+	margin:10px 200px 10px 200px;
+	height:auto;
+	line-height:20px;	
+	background-color:#FFC;
+}
+legend{
+	background-color:#F60;
+	border-radius:10px;
+	color:white;
+	padding:10px;	
+}
+.col2{
+	margin-top:10px;
+	margin-left:200px;
+	height:32px;
+	width:400px;
+	border-radius:7px;
+	outline:none;
+	padding:3px 5px 3px 5px;
+	font-size:16px;
+}
+.coladd2{
+	width:200px;
+	height:30px;
+	margin-left:200px;	
+	padding:3px 5px 3px 5px;
+}
+.textareas{
+	height:100px;	
+}
+#title{
+	height:60px;	
+}
+#stitle{
+	height:60px;	
+}
+
+.add_more_ele{	
+}
+.dropdown{
+	width:200px;	
+}
+.abs_idx{
+	margin-left:200px;
+	height:250px;
+	width:450px;	
+}
+
+body{	
+}
+
+.fieldset1{	
+	border-radius:30px;
+}
+#submit{
+	background-color:#F60;
+	height:40px;
+	width:960px;
+	color:white;
+	border-radius:20px;
+	padding:10px;
+	margin-top:40px;
+	
+}
+#author_ta{
+	height:100px;	
+}

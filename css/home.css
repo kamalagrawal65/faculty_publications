@@ -1,0 +1,141 @@
+﻿blockquote{
+        font-weight : bold;
+        font-size : 13px;
+}
+
+
+#top_body{
+	margin : 0px;
+	position : relative;
+	height : 248px;
+	font-family : Helvetica, Arial, sans-serif;
+	min-width:1320px;
+}
+
+#top_content{
+	margin: 0px auto ;
+	position: relative ;
+	width: 1120px ;
+	top: 30px ;
+	background: #aaa ;
+}
+#top_txt{
+	margin : 0px auto;
+	position : relative;
+	float: right ;
+	padding-left: 5px ;
+	padding-right: 5px ;
+	width : 490px;
+    text-align: justify; 
+    font: 15px Arial, Tahoma, sans-serif;
+	background: #ddd ;
+	height: 220px ;
+}
+
+#img_container{
+	float: left ;
+	width:  465px ;
+}
+
+#img_container img{
+	margin: 0px ;
+}
+
+#left_main{
+	width : 760px;
+	float : left;
+	padding : 0px;
+	margin : 0px;	
+}
+
+#first_column{
+	position: relative ;
+	width: 250px ;
+	float: left ;
+	padding: 1px ;
+}
+
+#second_column{
+	position: relative ;
+	width: 250px ;
+	float: left ;
+	padding: 1px ;
+}
+
+#third_column{
+	position: relative ;
+	width: 250px ;
+	float: left ;
+	padding: 1px ;
+}
+
+.linkList{
+	margin-bottom: 10px ; 	
+}
+
+.linkList a{
+	font-size: 14px ;	
+}
+.linkList li{
+	display: block ;
+	line-height : 1.5em;	
+}
+
+#right_bar {
+	width : 255px;
+	border : none;
+	height : 260px;
+	background : url(../images/updates.jpg) no-repeat;
+}
+
+#right_bar .col_heading{	text-align : center;}#updates{		margin-top : 0px;	height : 170px;	padding-top : 5px;	position : relative;	}marquee{	padding-top : 10px;}
+
+#updates div{	width : 170px;	padding : 10px;	text-align : center; font-size : 13px;}
+
+#left_bar h3{
+	color : rgb(132,27,3);
+	font-family: Helvetica, Arial, Tahoma, sans-serif;
+	font-size : 12px;
+	margin : 2px 0px;
+	padding : 5px 0px 0px 0px;
+}
+
+.link_box{
+	text-align : left;
+}
+
+.link_box a{
+	height : 40px;
+	line-height : 40px;
+	padding-left : 60px;
+	display : block;
+	font-size : 16px;
+	font-family : "Palatino", "Palatino Linotype", Georgia, sans-serif;	color : #fff;
+}
+
+.link_box a:hover{
+	color : #aaa;
+}
+
+.link_box img {
+	padding : 0px;
+	margin : 0px;
+	float : left;
+	border : 0px;
+}		
+
+#quick_links{	position : absolute;	width : 220px;	height : 160px;	top : 60px;	left : 0px;	}
+
+#cus{
+	background : url(../images/cus.jpg) center left no-repeat;
+}
+
+#tenders{
+	background : url(../images/tenders.jpg) center left no-repeat;
+}
+#recruit{
+	background : url(../images/recruitment.jpg) center left no-repeat;
+}
+#jee{
+	background : url(../images/jee.jpg) center left no-repeat;
+}
